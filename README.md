@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Tenten!
+I'm a patent drawing specialist and industrial design grad, exploring AI to automate patent illustrations and improve efficiency.
+🔧 What I Do
+Patent Drawings: Creating high-quality vector patent illustrations.
 
-<!--
-**wtc86939209/wtc86939209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Automation: Exploring AI techniques (OpenCV, deep learning) to automate patent drawing tasks.
 
-Here are some ideas to get you started:
+Web Development: Building a platform to auto-generate patent drawings from 3D files.
+🚀 Current Projects
+Patent Drawing Automation: Using AI to recognize views and auto-export drawings from 3D models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Learning: Deepening skills in computer vision and Python.
+📬 Let's Connect
+💬 [wtc86939209@gmail.com]
